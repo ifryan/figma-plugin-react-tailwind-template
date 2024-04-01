@@ -19,4 +19,5 @@ This repo is using:
 - React + Webpack
 - TypeScript
 - Prettier precommit hook
-- Taiwind
+- Tailwindcss
+- AntD
