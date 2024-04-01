@@ -102,10 +102,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.7.5.tgz#77211291c1900a700b8a78cfafda3160d76949ed"
   integrity sha512-OWORNpfjMsSSUBVrRBVGECkhWcULOAJz9ZW8uK9qgxD+87M7jHRcvh/A96XXNhXTLmKcoYSQtBEX7lHMO7YRwg==
 
-"@figma/plugin-typings@^1.50.0":
-  version "1.57.1"
-  resolved "https://registry.yarnpkg.com/@figma/plugin-typings/-/plugin-typings-1.57.1.tgz#85d3881f6a002df5f72620cd0a04816a03853341"
-  integrity sha512-kwiuApuqgkIPbFKey459VspenqXlBcBoMTnTZdQ/Hk2N71BTOZ0cM5Xq3zbPW/bEQOYtGDpweWxcXYHLo19HxQ==
+"@figma/plugin-typings@*":
+  version "1.89.0"
+  resolved "https://registry.yarnpkg.com/@figma/plugin-typings/-/plugin-typings-1.89.0.tgz#90a48f377ec9f65d2c22fe1b37c92c3d83ad9547"
+  integrity sha512-79L6UQTbb5MEfL6QeVqKTgLW1rYRPNvb1Dt+zt4XJ/vy89zgY69jYUYVAlEm+sLiYFzJqofyH5k+7xPXy9Wwhw==
 
 "@isaacs/cliui@^8.0.2":
   version "8.0.2"
