@@ -1,5 +1,5 @@
 import React from 'react';
-import './public/ui.css';
+import './ui.css';
 import { Button } from 'antd';
 
 
